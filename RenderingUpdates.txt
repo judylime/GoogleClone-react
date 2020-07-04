@@ -1,0 +1,3 @@
+react only updates what's necesssary
+react batches updates together
+react element are plain objects

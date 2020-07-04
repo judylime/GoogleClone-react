@@ -1,0 +1,8 @@
+Call search joke endpoint, and store results
+Save search input'value in app's state
+trigger search on form submission
+render th search results 
+Hook up the I'm feeling funny button
+Create search form componnet
+refactoring and clean up
+add styling to the app
